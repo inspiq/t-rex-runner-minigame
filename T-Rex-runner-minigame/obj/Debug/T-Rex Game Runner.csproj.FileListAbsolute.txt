@@ -1,0 +1,22 @@
+C:\Users\vippo\source\repos\T-Rex Game Runner\bin\Debug\T-Rex Game Runner.exe.config
+C:\Users\vippo\source\repos\T-Rex Game Runner\bin\Debug\T-Rex Game Runner.exe
+C:\Users\vippo\source\repos\T-Rex Game Runner\bin\Debug\T-Rex Game Runner.pdb
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.csproj.AssemblyReference.cache
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T_Rex_Game_Runner.Form1.resources
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T_Rex_Game_Runner.Properties.Resources.resources
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.csproj.GenerateResource.cache
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.csproj.CoreCompileInputs.cache
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.exe
+C:\Users\vippo\source\repos\T-Rex Game Runner\obj\Debug\T-Rex Game Runner.pdb
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.AssemblyReference.cache
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T_Rex_Game_Runner.Form1.resources
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.GenerateResource.cache
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.exe
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.pdb
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.exe.config
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.exe
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.pdb
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T_Rex_Game_Runner.Properties.Resources.resources
+C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.CoreCompileInputs.cache
