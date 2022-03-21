@@ -14,7 +14,7 @@ namespace T_Rex_Game_Runner
     {
         bool jumping = false;
         int jumpSpeed;
-        int force = 8;
+        int force = 7;
         int score = 0;
         int obstacleSpeed = 10;
         Random rand = new Random();
@@ -50,7 +50,7 @@ namespace T_Rex_Game_Runner
 
             if (trex.Top == 365 && jumping == false)
             {
-                force = 8;
+                force = 7;
                 trex.Top = 365;
                 jumpSpeed = 0;
             }
@@ -115,7 +115,7 @@ namespace T_Rex_Game_Runner
         {
             jumping = false;
             jumpSpeed = 0;
-            force = 8;
+            force = 7;
             score = 0;
             obstacleSpeed = 10;
             txtScore.Text = "Счет: " + score;

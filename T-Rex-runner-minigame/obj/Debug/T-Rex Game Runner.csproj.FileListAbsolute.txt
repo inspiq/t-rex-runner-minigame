@@ -20,3 +20,14 @@ C:\Users\vippo\source\repos\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.ex
 C:\Users\vippo\source\repos\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.pdb
 C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T_Rex_Game_Runner.Properties.Resources.resources
 C:\Users\vippo\source\repos\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.CoreCompileInputs.cache
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.exe.config
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.exe
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\bin\Debug\T-Rex Game Runner.pdb
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.AssemblyReference.cache
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.SuggestedBindingRedirects.cache
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T_Rex_Game_Runner.Form1.resources
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T_Rex_Game_Runner.Properties.Resources.resources
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.GenerateResource.cache
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.csproj.CoreCompileInputs.cache
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.exe
+D:\t-rex-runner-minigame\T-Rex-runner-minigame\obj\Debug\T-Rex Game Runner.pdb

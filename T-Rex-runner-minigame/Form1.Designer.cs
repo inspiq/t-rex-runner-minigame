@@ -115,7 +115,7 @@
             this.twocactus.BackgroundImage = global::T_Rex_Game_Runner.Properties.Resources.obstacle_2;
             this.twocactus.ErrorImage = null;
             this.twocactus.InitialImage = null;
-            this.twocactus.Location = new System.Drawing.Point(446, 375);
+            this.twocactus.Location = new System.Drawing.Point(628, 375);
             this.twocactus.Name = "twocactus";
             this.twocactus.Size = new System.Drawing.Size(32, 33);
             this.twocactus.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -128,7 +128,7 @@
             this.trex.BackColor = System.Drawing.Color.Transparent;
             this.trex.ErrorImage = null;
             this.trex.InitialImage = null;
-            this.trex.Location = new System.Drawing.Point(100, 365);
+            this.trex.Location = new System.Drawing.Point(24, 365);
             this.trex.Name = "trex";
             this.trex.Size = new System.Drawing.Size(40, 43);
             this.trex.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
