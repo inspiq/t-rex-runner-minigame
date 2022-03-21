@@ -14,7 +14,7 @@ namespace T_Rex_Game_Runner
     {
         bool jumping = false;
         int jumpSpeed;
-        int force = 12;
+        int force = 8;
         int score = 0;
         int obstacleSpeed = 10;
         Random rand = new Random();
@@ -39,18 +39,18 @@ namespace T_Rex_Game_Runner
 
             if (jumping == true)
             {
-                jumpSpeed = -12;
+                jumpSpeed = -14;
                 force -= 1;
             }
 
             else
             {
-                jumpSpeed = 12;
+                jumpSpeed = 14;
             }
 
             if (trex.Top == 365 && jumping == false)
             {
-                force = 12;
+                force = 8;
                 trex.Top = 365;
                 jumpSpeed = 0;
             }
@@ -63,7 +63,7 @@ namespace T_Rex_Game_Runner
 
                     if (x.Left < -100)
                     {
-                        x.Left = this.ClientSize.Width + rand.Next(200, 500) + (x.Width * 15);
+                        x.Left = this.ClientSize.Width + rand.Next(100, 1000) + (x.Width * 15);
                         score++;
                     }
 
@@ -115,7 +115,7 @@ namespace T_Rex_Game_Runner
         {
             jumping = false;
             jumpSpeed = 0;
-            force = 12;
+            force = 8;
             score = 0;
             obstacleSpeed = 10;
             txtScore.Text = "Счет: " + score;
@@ -129,7 +129,7 @@ namespace T_Rex_Game_Runner
             {
                if (x is PictureBox && (string)x.Tag == "obstacle")
                {
-                    position = this.ClientSize.Width + rand.Next(300, 700) + (x.Width * 10);
+                    position = this.ClientSize.Width + rand.Next(100, 1000) + (x.Width * 15);
                     x.Left = position;
                }
             }
